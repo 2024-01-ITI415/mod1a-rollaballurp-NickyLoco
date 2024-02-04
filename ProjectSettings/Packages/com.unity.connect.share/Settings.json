@@ -19,7 +19,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/ticky/Documents/GitHub/mod1a-rollaballurp-NickyLoco/WebGL Builds/Web 1;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/ticky/Documents/GitHub/mod1a-rollaballurp-NickyLoco/Web/Web_Build;C:/Users/ticky/Documents/GitHub/mod1a-rollaballurp-NickyLoco/Web1;C:/Users/ticky/Documents/Rutgers/Spring 2024/Digital Game Creation/Assignment 1/WebGL Page;C:/Users/ticky/Documents/GitHub/mod1a-rollaballurp-NickyLoco/WebGL Builds/Web 1;;;;;;\"}"
             }
         ]
     }
